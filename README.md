@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Mikimann's github stats](https://github-readme-stats.vercel.app/api?username=Mikimann&theme=radical)
-&nbsp;
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikimann&theme=blue-green&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;
-&nbsp;
+<div class='container'>
+<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Mikimann&theme=radical" />
+</div>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikimann&repo=note-project)](https://github.com/Mikimann/note-project)
 &nbsp;
 &nbsp;
