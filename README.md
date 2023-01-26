@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<ul>
+  <li>📫 Let`s connect on: <a href="https://www.linkedin.com/in/dumitrujurja/">LinkedIn</a> </li>
+</ul>
+
 <!--
 **Mikimann/Mikimann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
