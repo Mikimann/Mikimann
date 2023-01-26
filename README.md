@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img style="height: auto; width: 100%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Mikimann&repo=blog-withDB"/>
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 100;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Mikimann&repo=todolist"/>
+<img style="height: auto; width: 100%" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Mikimann&repo=todolist"/>
 </div>
 
 
