@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center" dir="auto">
+
 <img style="height: auto; width: 50%; align: center" class="img" src="https://github-readme-stats.vercel.app/api?username=Mikimann&theme=radical" />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikimann&repo=note-project)](https://github.com/Mikimann/note-project)
@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikimann&repo=react-weather-app)](https://github.com/Mikimann/react-weather-app)
   
-</p>
 
 <p align="center" dir="auto">
 <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikimann&theme=blue-green&langs_count=8&layout=compact" /> 
