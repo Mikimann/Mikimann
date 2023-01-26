@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Mikimann's github stats](https://github-readme-stats.vercel.app/api?username=Mikimann&theme=radical )
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikimann&repo=wiki-api)](https://github.com/Mikimann/wiki-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikimann&repo=wiki-api)](https://github.com/anuraghazra/github-readme-stats)
 
 
