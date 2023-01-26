@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div class='container'>
-<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Mikimann&theme=radical" />
+<img style="height: auto; width: 50%; align: center" class="img" src="https://github-readme-stats.vercel.app/api?username=Mikimann&theme=radical" />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikimann&repo=note-project)](https://github.com/Mikimann/note-project)
 &nbsp;
