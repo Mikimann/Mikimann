@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikimann&theme=blue-green&langs_count=8&layout=compact" /></div>
 
-<img style="height: auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Mikimann&repo=blog-withDB"/>
-<img style="height: auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Mikimann&repo=todolist"/>
+<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Mikimann&repo=blog-withDB"/>
+<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Mikimann&repo=todolist"/>
 </div>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikimann&repo=secrets-project)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
