@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikimann&theme=blue-green&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikimann&repo=note-project)](https://github.com/Mikimann/note-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikimann&repo=crypto-project)](https://github.com/Mikimann/crypto-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikimann&repo=turbo-repo-task-manager)](https://github.com/Mikimann/turborepo-task-manager)
 
 
 
