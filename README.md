@@ -20,21 +20,21 @@ Here are some ideas to get you started:
 <p align="center" dir="auto">
 <img style="height: auto; width: 50%" class="img" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mikimann&theme=radical" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikimann&repo=note-project)](https://github.com/Mikimann/note-project)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mikimann&repo=note-project)](https://github.com/Mikimann/note-project)
 &nbsp;
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikimann&repo=crypto-project)](https://github.com/Mikimann/crypto-project)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mikimann&repo=crypto-project)](https://github.com/Mikimann/crypto-project)
 &nbsp;
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikimann&repo=turborepo-task-manager)](https://github.com/Mikimann/turborepo-task-manager)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mikimann&repo=turborepo-task-manager)](https://github.com/Mikimann/turborepo-task-manager)
 &nbsp;
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikimann&repo=react-weather-app)](https://github.com/Mikimann/react-weather-app)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mikimann&repo=react-weather-app)](https://github.com/Mikimann/react-weather-app)
 
 </p>
 
 <p align="center" dir="auto">
-<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikimann&theme=blue-green&langs_count=8&layout=compact" /> 
+<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mikimann&theme=blue-green&langs_count=8&layout=compact" /> 
 </p>
 
 
