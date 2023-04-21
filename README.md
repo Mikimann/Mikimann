@@ -16,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikimann&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mikimann&repo=fullstack-music-app](https://github.com/Mikimann/fullstack-music-app)
 &nbsp;
 &nbsp;
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mikimann&repo=crypto-project)](https://github.com/Mikimann/crypto-project)
@@ -26,7 +26,7 @@
 &nbsp;
 &nbsp;
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mikimann&repo=note-project)](https://github.com/Mikimann/note-project)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mikimann&repo=fullstack-music-app](https://github.com/Mikimann/fullstack-music-app)
+
 
 </p>
 
