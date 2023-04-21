@@ -31,9 +31,6 @@
 
 </p>
 
-<p align="center" dir="auto">
-<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mikimann&theme=blue-green&langs_count=8&layout=compact" /> 
-</p>
 
 
 
