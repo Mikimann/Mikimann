@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <p align="center" dir="auto">
 <img style="height: auto; width: 50%" class="img" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mikimann&theme=radical" />
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mikimann&repo=note-project)](https://github.com/Mikimann/note-project)
+
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mikimann&repo=fullstack-music-app](https://github.com/Mikimann/fullstack-music-app)
 &nbsp;
 &nbsp;
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mikimann&repo=crypto-project)](https://github.com/Mikimann/crypto-project)
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mikimann&repo=turborepo-task-manager)](https://github.com/Mikimann/turborepo-task-manager)
 &nbsp;
 &nbsp;
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mikimann&repo=react-weather-app)](https://github.com/Mikimann/react-weather-app)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mikimann&repo=note-project)](https://github.com/Mikimann/note-project)
 
 </p>
 
